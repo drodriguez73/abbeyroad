@@ -1,0 +1,11 @@
+5/11/18, reemplazar index.html con bootstrap
+   meter menuesindex.html
+	      carouserlindex.html
+			carsd.html
+*** Listo!!! 6/11/18
+26/11/18, Tareas por hacer:
+	cambiar los colores home page
+	achicar tamaño fotos carousel
+	alinear menues
+	fuentes de la home page
+	
