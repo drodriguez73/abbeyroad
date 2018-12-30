@@ -17,3 +17,13 @@ No reiventar la rueda, es decir, utilizar todo lo que bootstrap provee.
 2. Desarrollo reutilizable
 3. Codigo a super probado, y si algo falla, la comunidad probablemente lo descubra antes que nosotros
 4. Codigo compatible con la mayoria de los navegadores y dispositivos mobiles
+
+
+#### Tips para el maquetador
+
+La pagina principal y completa es el index.html
+Solo a efectos de hacer mas facil el testing desagremamos al index.html en los siguientes archivos para que fuera mas sencillo el testeo
+-- corousel.html
+-- destacado.html
+-- findus.html
+-- menu.html
